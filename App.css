@@ -1,0 +1,12 @@
+.dropbtn {
+    background-color: #4caf50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    border-radius: 29% 40% 30% 0%;
+  }
+  .dropbtn:hover{
+    background-color: #467947;
+    color: rgb(0, 0, 0);
+  }
